@@ -1,4 +1,8 @@
 # led_matrix
+![Alt text](/../images/IMAG1414.jpg?raw=true "LED Matrix")
+![Alt text](/../images/IMAG1416.jpg?raw=true "LED Matrix")
+![Alt text](/../images/IMAG1429.jpg?raw=true "LED Matrix")
+
 This is a project in 3 parts. Software, hardware and electronics. Together it forms a wireless led matrix.
 Since it's based around the ESP8266 it supports connecting to a wifi and having animations streamed to it.
 
